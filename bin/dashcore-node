@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var umbrucore = require('../lib/cli/umbrucore');
+umbrucore();
