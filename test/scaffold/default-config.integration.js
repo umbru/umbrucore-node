@@ -20,7 +20,7 @@ describe('#defaultConfig', function() {
         umbrud: {
           connect: [{
             rpchost: '127.0.0.1',
-            rpcport: 9998,
+            rpcport: 12354,
             rpcuser: 'umbru',
             rpcpassword: 'local321',
             zmqpubrawtx: 'tcp://127.0.0.1:28332'
@@ -66,7 +66,7 @@ describe('#defaultConfig', function() {
         umbrud: {
           connect: [{
             rpchost: '127.0.0.1',
-            rpcport: 9998,
+            rpcport: 12354,
             rpcuser: 'umbru',
             rpcpassword: 'local321',
             zmqpubrawtx: 'tcp://127.0.0.1:28332'
